@@ -5,6 +5,6 @@
 
 Welcome to Loopsware's GitHub!
 
-Loopsware is a Creative Laboratory solving real life challenges through Mobile Apps and Generative AI. to learn more, visit: <b>https://loopsware.com</b>
+We're a Creative Laboratory solving real life challenges through Mobile Apps and Generative AI. to learn more, visit: <b>https://loopsware.com</b>
 
 </div>
